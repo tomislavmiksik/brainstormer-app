@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022657871859",
+    "project_id": "brainstormer-app",
+    "storage_bucket": "brainstormer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022657871859:android:3c11cbd4184333367b1c86",
+        "android_client_info": {
+          "package_name": "com.example.brainstormer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022657871859-mstehepb99p74vbgkalg868g0p8308qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUbG4B0-0rqqmaepLRel-XCxN7sNWaX_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022657871859-mstehepb99p74vbgkalg868g0p8308qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
