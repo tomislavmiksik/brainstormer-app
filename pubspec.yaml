@@ -34,12 +34,24 @@ dev_dependencies:
   hive_generator: ^2.0.0
   retrofit_generator: ^4.2.0
   flutter_gen_runner: ^5.1.0+1
+  flutter_launcher_icons: ^0.11.0
 
 flutter:
 
   assets:
     - .env
     - assets/images/
+
+flutter_icons:
+  ios: true
+  android: true
+  image_path: "assets/app_icon/standard.png"
+  image_path_ios: "assets/app_icon/standard.png"
+  image_path_android: "assets/app_icon/standard.png"
+  adaptive_icon_background: "#006D44"
+  adaptive_icon_foreground: "assets/app_icon/standard.png"
+  remove_alpha_ios: true
+
 
 flutter_intl:
   enabled: true
